@@ -1,0 +1,15 @@
+C:/Users/souza/Desktop/systemverilog/exemplo01/tb_ckt1.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/systemverilog/exemplo01/tb_ckt1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ckt1
+
+Top level modules:
+	tb_ckt1
+
+} {} {}} C:/Users/souza/Desktop/systemverilog/exemplo01/ckt1.sv {1 {vlog -work work -sv -stats=none C:/Users/souza/Desktop/systemverilog/exemplo01/ckt1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ckt1
+
+Top level modules:
+	ckt1
+
+} {} {}}

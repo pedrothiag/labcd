@@ -1,0 +1,111 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/souza/Desktop/systemverilog/exemplo02
+vckt3
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1742320496
+!i10b 1
+!s100 znOa3[2f5naj=iP4M?7P:0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic1KNDGgY;ekU;jf3FLP3?2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/souza/Desktop/systemverilog/exemplo03
+w1742319927
+8C:/Users/souza/Desktop/systemverilog/exemplo03/ckt3.sv
+FC:/Users/souza/Desktop/systemverilog/exemplo03/ckt3.sv
+!i122 6
+L0 1 12
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1742320496.000000
+!s107 C:/Users/souza/Desktop/systemverilog/exemplo03/ckt3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/systemverilog/exemplo03/ckt3.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vfulladder
+R0
+R1
+!i10b 1
+!s100 lXUdZ6lHIHbYP^FOhlHQl0
+R2
+I0jNTJN26FmbW>2?TF[X6k0
+R3
+S1
+R4
+w1742319994
+8C:/Users/souza/Desktop/systemverilog/exemplo03/fulladder.sv
+FC:/Users/souza/Desktop/systemverilog/exemplo03/fulladder.sv
+!i122 7
+L0 1 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/souza/Desktop/systemverilog/exemplo03/fulladder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/systemverilog/exemplo03/fulladder.sv|
+!i113 1
+R7
+R8
+vtb_ckt2
+R0
+!s110 1742320475
+!i10b 1
+!s100 QJnZa4C]fAm75mIYlkT=j2
+R2
+IboB;6N<HTT4aj49_GAlCL0
+R3
+S1
+R4
+w1742320452
+Z9 8C:/Users/souza/Desktop/systemverilog/exemplo03/tb_ckt3.sv
+Z10 FC:/Users/souza/Desktop/systemverilog/exemplo03/tb_ckt3.sv
+!i122 5
+Z11 L0 1 18
+R5
+r1
+!s85 0
+31
+!s108 1742320475.000000
+!s107 C:/Users/souza/Desktop/systemverilog/exemplo03/tb_ckt3.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/systemverilog/exemplo03/tb_ckt3.sv|
+!i113 1
+R7
+R8
+vtb_ckt3
+R0
+R1
+!i10b 1
+!s100 DIgKzZXLzPIb=3OFT05z`1
+R2
+IkJL1:icR:hGfJXW77<2Q82
+R3
+S1
+R4
+w1742320491
+R9
+R10
+!i122 8
+R11
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/souza/Desktop/systemverilog/exemplo03/tb_ckt3.sv|
+R12
+!i113 1
+R7
+R8
