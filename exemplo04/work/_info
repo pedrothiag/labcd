@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/souza/Desktop/systemverilog/exemplo02
+vckt4
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1742404931
+!i10b 1
+!s100 A7DdmTMN?T42f>KUgnBJi2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQTQ6L0DT@LmCUB9W^WE532
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/souza/Desktop/systemverilog/exemplo04
+w1742404871
+8C:/Users/souza/Desktop/systemverilog/exemplo04/ckt4.sv
+FC:/Users/souza/Desktop/systemverilog/exemplo04/ckt4.sv
+!i122 0
+L0 1 11
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1742404931.000000
+!s107 C:/Users/souza/Desktop/systemverilog/exemplo04/ckt4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/systemverilog/exemplo04/ckt4.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vtb_ckt4
+R0
+R1
+!i10b 1
+!s100 mBHIjU:486BTRIoV;dSH01
+R2
+IzKzj1li>zO^Pbla2lV0=P0
+R3
+S1
+R4
+w1742404894
+8C:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv
+FC:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv
+!i122 1
+L0 1 18
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv|
+!i113 1
+R7
+R8

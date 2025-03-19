@@ -1,0 +1,18 @@
+# Compile of ckt4.sv was successful.
+# Compile of tb_ckt4.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_ckt4
+# vsim -gui work.tb_ckt4 
+# Start time: 14:22:21 on Mar 19,2025
+# Loading sv_std.std
+# Loading work.tb_ckt4
+# Loading work.ckt4
+run
+# a =  6 	 b =  3 	 cin = 0 	 | 	 s =  9 	 cout = 0
+# a =  6 	 b =  3 	 cin = 1 	 | 	 s = 10 	 cout = 0
+# a = 12 	 b =  3 	 cin = 0 	 | 	 s = 15 	 cout = 0
+# a = 12 	 b =  5 	 cin = 0 	 | 	 s =  1 	 cout = 1
+# a = 12 	 b =  5 	 cin = 1 	 | 	 s =  2 	 cout = 1
+# ** Note: $stop    : C:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv(16)
+#    Time: 50 ps  Iteration: 0  Instance: /tb_ckt4
+# Break in Module tb_ckt4 at C:/Users/souza/Desktop/systemverilog/exemplo04/tb_ckt4.sv line 16
