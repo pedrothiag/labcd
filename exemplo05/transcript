@@ -1,0 +1,24 @@
+# Compile of ckt5.sv was successful.
+# Compile of tb_ckt5.sv failed with 5 errors.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of ckt5.sv was successful.
+# Compile of tb_ckt5.sv failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of ckt5.sv was successful.
+# Compile of tb_ckt5.sv failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of ckt5.sv was successful.
+# Compile of tb_ckt5.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_ckt5
+# vsim -gui work.tb_ckt5 
+# Start time: 14:46:52 on Mar 20,2025
+# Loading sv_std.std
+# Loading work.tb_ckt5
+# Loading work.ckt5
+add wave -position end  sim:/tb_ckt5/dl
+add wave -position end  sim:/tb_ckt5/clkl
+add wave -position end  sim:/tb_ckt5/ql
+run
+# End time: 14:49:40 on Mar 20,2025, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 8
